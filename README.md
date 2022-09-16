@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bodeto
-- 👀 I’m interested in ... coffees
-- 🌱 I’m currently learning ... databases and data manipulation
+- 👀 I’m interested in ... coffee, automation
+- 🌱 I’m currently learning ... databases
 - 💞️ I’m looking to collaborate on ... time and resource restrictive data storage solutions
 - 📫 How to reach me ... email: ericekillah@hotmail.com
 
