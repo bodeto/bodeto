@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bodeto
 - 👀 I’m interested in ... coffee, automation
 - 🌱 I’m currently learning ... databases
-- 💞️ I’m looking to collaborate on ... time and resource restrictive data storage solutions
+- 💞️ I’m looking to collaborate on ... data sharing solutions
 - 📫 How to reach me ... email: ericekillah@hotmail.com
 
 <!---
